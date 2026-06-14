@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Krishan Singhal.<br>I am a Blockchain developer, certified in Ethereum development and Hyperledger Fabric Development.<br>I have expertise in Backend and Frontend.
+Hi, I am Krishan Singhal.<br>I am a Blockchain developer, certified in Ethereum development and Hyperledger Fabric Development.<br>I have expertise in Blockchain and Backend.
 
 
 ## 🌐 Socials:
